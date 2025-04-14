@@ -1,0 +1,48 @@
+2025-04-14T20:33:18.915221+0800 - WARNING - Settings file not found: /Users/admin/Documents/AutoProject/GEN-HP/config/settings.json. Using default settings.
+2025-04-14T20:33:18.915532+0800 - INFO - Settings saved to /Users/admin/Documents/AutoProject/GEN-HP/config/settings.json
+2025-04-14T20:33:18.915593+0800 - WARNING - Regions file not found: /Users/admin/Documents/AutoProject/GEN-HP/config/regions.json. No regions loaded. Please configure regions.
+2025-04-14T20:33:18.915637+0800 - WARNING - Missing required regions: {'slot_5', 'hp', 'slot_6'}. Check config/regions.json or run configuration.
+2025-04-14T20:33:18.915796+0800 - INFO - Settings saved to /Users/admin/Documents/AutoProject/GEN-HP/config/settings.json
+2025-04-14T20:33:18.915831+0800 - WARNING - Attempted to save an empty regions dictionary. Skipping save.
+2025-04-14T20:34:00.897851+0800 - INFO - Select region for hp: click twice
+2025-04-14T20:34:02.201485+0800 - INFO - Point 1: (1017.66796875, 377.66796875)
+2025-04-14T20:34:02.623594+0800 - INFO - Point 2: (1101.54296875, 409.98046875)
+2025-04-14T20:34:02.624743+0800 - INFO - Region selected for hp: Region(left=1017.66796875, top=377.66796875, width=83.875, height=32.3125)
+2025-04-14T20:34:02.628684+0800 - INFO - Region hp updated
+2025-04-14T20:34:05.191829+0800 - INFO - Select region for slot_5: click twice
+2025-04-14T20:34:06.355749+0800 - INFO - Point 1: (1017.66796875, 363.23046875)
+2025-04-14T20:34:06.625262+0800 - INFO - Point 2: (1112.54296875, 409.29296875)
+2025-04-14T20:34:06.707388+0800 - INFO - Region selected for slot_5: Region(left=1017.66796875, top=363.23046875, width=94.875, height=46.0625)
+2025-04-14T20:34:06.708471+0800 - INFO - Region slot_5 updated
+2025-04-14T20:34:07.785220+0800 - INFO - Select region for slot_6: click twice
+2025-04-14T20:34:08.526156+0800 - INFO - Point 1: (1013.54296875, 368.73046875)
+2025-04-14T20:34:08.746153+0800 - INFO - Point 2: (1156.54296875, 440.91796875)
+2025-04-14T20:34:08.796151+0800 - INFO - Region selected for slot_6: Region(left=1013.54296875, top=368.73046875, width=143.0, height=72.1875)
+2025-04-14T20:34:08.796437+0800 - INFO - Region slot_6 updated
+2025-04-14T20:34:14.932525+0800 - INFO - Automation started
+2025-04-14T20:34:14.935762+0800 - INFO - Rust window inactive, paused
+2025-04-14T20:34:14.935980+0800 - INFO - Select region for hp: click twice
+2025-04-14T20:34:18.075170+0800 - INFO - Point 1: (441.54296875, 480.10546875)
+2025-04-14T20:34:19.211973+0800 - INFO - Point 2: (1166.85546875, 962.04296875)
+2025-04-14T20:34:19.264875+0800 - INFO - Region selected for hp: Region(left=441.54296875, top=480.10546875, width=725.3125, height=481.9375)
+2025-04-14T20:34:19.265124+0800 - INFO - Region hp updated
+2025-04-14T20:36:36.181326+0800 - ERROR - Failed to load or parse settings file /Users/admin/Documents/AutoProject/GEN-HP/config/settings.json: Invalid slot or delay. Using default settings.
+2025-04-14T20:36:36.181530+0800 - WARNING - Regions file not found: /Users/admin/Documents/AutoProject/GEN-HP/config/regions.json. No regions loaded. Please configure regions.
+2025-04-14T20:36:36.181574+0800 - WARNING - Missing required regions: {'hp', 'slot_5', 'slot_6'}. Check config/regions.json or run configuration.
+2025-04-14T20:36:36.181766+0800 - INFO - Settings saved to /Users/admin/Documents/AutoProject/GEN-HP/config/settings.json
+2025-04-14T20:36:36.181811+0800 - WARNING - Attempted to save an empty regions dictionary. Skipping save.
+2025-04-14T20:36:42.290230+0800 - INFO - Select region for hp: click twice
+2025-04-14T20:36:43.382636+0800 - INFO - Point 1: (1043.79296875, 643.73046875)
+2025-04-14T20:36:43.874028+0800 - INFO - Point 2: (1013.54296875, 614.16796875)
+2025-04-14T20:36:43.911834+0800 - INFO - Region selected for hp: Region(left=1013.54296875, top=614.16796875, width=30.25, height=29.5625)
+2025-04-14T20:36:43.912758+0800 - INFO - Region hp updated
+2025-04-14T20:36:45.509143+0800 - INFO - Select region for slot_5: click twice
+2025-04-14T20:36:46.123514+0800 - INFO - Point 1: (1080.23046875, 647.85546875)
+2025-04-14T20:36:46.369405+0800 - INFO - Point 2: (992.23046875, 602.48046875)
+2025-04-14T20:36:46.419510+0800 - INFO - Region selected for slot_5: Region(left=992.23046875, top=602.48046875, width=88.0, height=45.375)
+2025-04-14T20:36:46.419703+0800 - INFO - Region slot_5 updated
+2025-04-14T20:36:47.480966+0800 - INFO - Select region for slot_6: click twice
+2025-04-14T20:36:47.951574+0800 - INFO - Point 1: (1122.85546875, 633.41796875)
+2025-04-14T20:36:48.192480+0800 - INFO - Point 2: (1021.10546875, 599.73046875)
+2025-04-14T20:36:48.290622+0800 - INFO - Region selected for slot_6: Region(left=1021.10546875, top=599.73046875, width=101.75, height=33.6875)
+2025-04-14T20:36:48.290929+0800 - INFO - Region slot_6 updated

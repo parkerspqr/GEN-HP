@@ -1,0 +1,85 @@
+2025-04-14 20:41:15 | ERROR | Failed to load or parse settings file /Users/admin/Documents/AutoProject/GEN-HP/config/settings.json: Invalid slot or delay. Using default settings.
+2025-04-14 20:41:15 | WARNING | Regions file not found: /Users/admin/Documents/AutoProject/GEN-HP/config/regions.json. No regions loaded. Please configure regions.
+2025-04-14 20:41:15 | WARNING | Missing required regions: {'slot_6', 'slot_5', 'hp'}. Check config/regions.json or run configuration.
+2025-04-14 20:41:15 | INFO | Settings saved to /Users/admin/Documents/AutoProject/GEN-HP/config/settings.json
+2025-04-14 20:41:15 | WARNING | Attempted to save an empty regions dictionary. Skipping save.
+2025-04-14 20:41:16 | DEBUG | AutomationCore initialized
+2025-04-14 20:41:16 | INFO | MainWindow initialized
+2025-04-14 20:41:25 | ERROR | Attempted to start without all regions selected
+2025-04-14 20:41:27 | INFO | Select region for HP: click twice
+2025-04-14 20:41:29 | INFO | Point 1: (949.60546875, 653.35546875)
+2025-04-14 20:41:29 | INFO | Point 2: (1142.79296875, 740.66796875)
+2025-04-14 20:41:29 | INFO | Region selected for HP: Region(left=949.60546875, top=653.35546875, width=193.1875, height=87.3125)
+2025-04-14 20:41:29 | INFO | Settings saved to /Users/admin/Documents/AutoProject/GEN-HP/config/settings.json
+2025-04-14 20:41:29 | INFO | Regions saved to /Users/admin/Documents/AutoProject/GEN-HP/config/regions.json
+2025-04-14 20:41:29 | INFO | HP region selected
+2025-04-14 20:41:32 | INFO | Select region for Slot 5: click twice
+2025-04-14 20:41:34 | INFO | Point 1: (693.85546875, 797.73046875)
+2025-04-14 20:41:34 | INFO | Point 2: (598.29296875, 757.85546875)
+2025-04-14 20:41:34 | INFO | Region selected for Slot 5: Region(left=598.29296875, top=757.85546875, width=95.5625, height=39.875)
+2025-04-14 20:41:34 | INFO | Settings saved to /Users/admin/Documents/AutoProject/GEN-HP/config/settings.json
+2025-04-14 20:41:34 | INFO | Regions saved to /Users/admin/Documents/AutoProject/GEN-HP/config/regions.json
+2025-04-14 20:41:34 | INFO | Slot 5 region selected
+2025-04-14 20:41:40 | INFO | Select region for Slot 5: click twice
+2025-04-14 20:41:41 | INFO | Point 1: (228.41796875, 242.91796875)
+2025-04-14 20:41:42 | INFO | Point 2: (234.60546875, 254.60546875)
+2025-04-14 20:41:42 | INFO | Region selected for Slot 5: Region(left=228.41796875, top=242.91796875, width=6.1875, height=11.6875)
+2025-04-14 20:41:42 | INFO | Settings saved to /Users/admin/Documents/AutoProject/GEN-HP/config/settings.json
+2025-04-14 20:41:42 | INFO | Regions saved to /Users/admin/Documents/AutoProject/GEN-HP/config/regions.json
+2025-04-14 20:41:42 | INFO | Slot 5 region selected
+2025-04-14 20:41:44 | INFO | Select region for Slot 6: click twice
+2025-04-14 20:41:45 | INFO | Point 1: (240.10546875, 384.54296875)
+2025-04-14 20:41:46 | INFO | Point 2: (92.29296875, 345.35546875)
+2025-04-14 20:41:46 | INFO | Region selected for Slot 6: Region(left=92.29296875, top=345.35546875, width=147.8125, height=39.1875)
+2025-04-14 20:41:46 | INFO | Settings saved to /Users/admin/Documents/AutoProject/GEN-HP/config/settings.json
+2025-04-14 20:41:46 | INFO | Regions saved to /Users/admin/Documents/AutoProject/GEN-HP/config/regions.json
+2025-04-14 20:41:46 | INFO | Slot 6 region selected
+2025-04-14 20:41:48 | INFO | Script started
+2025-04-14 20:42:17 | DEBUG | Stop signal received
+2025-04-14 20:42:17 | INFO | Script stopped
+2025-04-14 20:42:19 | INFO | Script started
+2025-04-14 20:42:22 | DEBUG | Stop signal received
+2025-04-14 20:42:22 | INFO | Script stopped
+2025-04-14 20:42:23 | INFO | Application closed
+2025-04-14 20:51:18 | ERROR | Failed to load or parse settings file /Users/admin/Documents/AutoProject/GEN-HP/config/settings.json: Invalid slot or delay. Using default settings.
+2025-04-14 20:51:18 | INFO | Settings saved to /Users/admin/Documents/AutoProject/GEN-HP/config/settings.json
+2025-04-14 20:51:18 | INFO | Regions saved to /Users/admin/Documents/AutoProject/GEN-HP/config/regions.json
+2025-04-14 20:51:18 | DEBUG | AutomationCore initialized with debug=True
+2025-04-14 20:51:19 | INFO | MainWindow initialized
+2025-04-14 20:51:28 | INFO | Select region for HP: click twice
+2025-04-14 20:51:29 | INFO | Point 1: (1016.29296875, 374.91796875)
+2025-04-14 20:51:29 | INFO | Point 2: (1089.16796875, 407.91796875)
+2025-04-14 20:51:29 | INFO | Region selected for HP: Region(left=1016.29296875, top=374.91796875, width=72.875, height=33.0)
+2025-04-14 20:51:29 | INFO | Settings saved to /Users/admin/Documents/AutoProject/GEN-HP/config/settings.json
+2025-04-14 20:51:29 | INFO | Regions saved to /Users/admin/Documents/AutoProject/GEN-HP/config/regions.json
+2025-04-14 20:51:29 | INFO | HP region selected
+2025-04-14 20:51:30 | INFO | Select region for Slot 5: click twice
+2025-04-14 20:51:31 | INFO | Point 1: (1015.60546875, 372.85546875)
+2025-04-14 20:51:31 | INFO | Point 2: (1120.10546875, 427.16796875)
+2025-04-14 20:51:31 | INFO | Region selected for Slot 5: Region(left=1015.60546875, top=372.85546875, width=104.5, height=54.3125)
+2025-04-14 20:51:31 | INFO | Settings saved to /Users/admin/Documents/AutoProject/GEN-HP/config/settings.json
+2025-04-14 20:51:31 | INFO | Regions saved to /Users/admin/Documents/AutoProject/GEN-HP/config/regions.json
+2025-04-14 20:51:31 | INFO | Slot 5 region selected
+2025-04-14 20:51:32 | INFO | Select region for Slot 6: click twice
+2025-04-14 20:51:33 | INFO | Point 1: (1010.10546875, 372.16796875)
+2025-04-14 20:51:33 | INFO | Point 2: (1143.48046875, 436.10546875)
+2025-04-14 20:51:33 | INFO | Region selected for Slot 6: Region(left=1010.10546875, top=372.16796875, width=133.375, height=63.9375)
+2025-04-14 20:51:33 | INFO | Settings saved to /Users/admin/Documents/AutoProject/GEN-HP/config/settings.json
+2025-04-14 20:51:33 | INFO | Regions saved to /Users/admin/Documents/AutoProject/GEN-HP/config/regions.json
+2025-04-14 20:51:33 | INFO | Slot 6 region selected
+2025-04-14 20:51:35 | INFO | Script started
+2025-04-14 20:51:47 | DEBUG | Settings window opened
+2025-04-14 20:51:51 | DEBUG | Stop signal received
+2025-04-14 20:51:51 | INFO | Script stopped
+2025-04-14 20:51:52 | INFO | Script started
+2025-04-14 20:51:53 | DEBUG | Stop signal received
+2025-04-14 20:51:53 | INFO | Script stopped
+2025-04-14 20:51:53 | INFO | Script started
+2025-04-14 20:51:54 | DEBUG | Stop signal received
+2025-04-14 20:51:54 | INFO | Application closed
+2025-04-14 20:52:14 | ERROR | Failed to load or parse settings file /Users/admin/Documents/AutoProject/GEN-HP/config/settings.json: Invalid slot or delay. Using default settings.
+2025-04-14 20:52:15 | INFO | Settings saved to /Users/admin/Documents/AutoProject/GEN-HP/config/settings.json
+2025-04-14 20:52:15 | INFO | Regions saved to /Users/admin/Documents/AutoProject/GEN-HP/config/regions.json
+2025-04-14 20:52:15 | DEBUG | AutomationCore initialized with debug=True
+2025-04-14 20:52:15 | INFO | MainWindow initialized
+2025-04-14 20:52:19 | INFO | Application closed

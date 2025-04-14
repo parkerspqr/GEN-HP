@@ -1,0 +1,10 @@
+{
+    "check_interval_idle": 1.0,
+    "check_interval_stable": 0.5,
+    "check_interval_healing": 0.2,
+    "hp_threshold": 70,
+    "slot_delays": {
+        "5": 2.0,
+        "6": 2.0
+    }
+}
