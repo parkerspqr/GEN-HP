@@ -1,21 +1,45 @@
 # AutoHPrust
 
-A macOS application for automating item usage in Rust based on health (HP) monitoring.
+Приложение для macOS (ARM), предназначенное для автоматического использования предметов (лечения) в игре Rust на основе мониторинга уровня здоровья (HP).
 
-## Features
-- Monitors HP and uses items from slots 5/6 when HP falls below a threshold.
-- OCR-based detection using PaddleOCR.
-- Configurable intervals and delays.
-- Tkinter GUI for region selection and settings.
-- Debug mode for visual feedback.
+## Описание
 
-## Requirements
-- Python 3.10+
-- macOS ARM
-- Dependencies: see `requirements.txt`
+AutoHPrust отслеживает значение HP на экране в реальном времени. Если здоровье падает ниже заданного порога, приложение автоматически использует предметы из слотов 5 или 6.
 
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone <repo-url>
-   cd autohprust
+### Основные возможности
+*   **Автоматическое лечение**: Мгновенная реакция на понижение HP.
+*   **OCR (Распознавание текста)**: Использование PaddleOCR для точного считывания цифр.
+*   **Гибкая настройка**: Выбор областей экрана, настройка задержек и порогов срабатывания.
+*   **Умное использование слотов**: Отслеживание количества предметов и кулдаунов.
+*   **GUI**: Удобный графический интерфейс для настройки.
+
+## Документация
+
+Для разработчиков и AI-агентов доступна подробная техническая документация на русском языке:
+
+📄 **[DOCS_RU.md](./DOCS_RU.md)**
+
+В ней содержится:
+*   Архитектура проекта.
+*   Описание всех модулей (`automation`, `capture`, `ocr`, `config`, `gui`).
+*   Детальное описание классов и функций (входные параметры, логика работы).
+
+Используйте этот файл, чтобы быстро разобраться в коде и внести необходимые изменения.
+
+## Требования
+
+*   Python 3.10+
+*   macOS (тестировалось на Apple Silicon)
+*   Зависимости из `requirements.txt`
+
+## Установка и запуск
+
+1.  Клонируйте репозиторий.
+2.  Установите зависимости:
+    ```bash
+    pip install -r requirements.txt
+    ```
+3.  Запустите приложение:
+    ```bash
+    python -m src.main
+    ```
